@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\ZUNE-WAR-WINDOWS\ZUNE-WAR-WINDOWS\bin\x86\Debug\ZUNE-WAR-WINDOWS.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\ZUNE-WAR-WINDOWS\ZUNE-WAR-WINDOWS\bin\x86\Debug\ZUNE-WAR-WINDOWS.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\ZUNE-WAR-WINDOWS\ZUNE-WAR-WINDOWS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\ZUNE-WAR-WINDOWS\ZUNE-WAR-WINDOWS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\ZUNE-WAR-WINDOWS\ZUNE-WAR-WINDOWS\obj\x86\Debug\ZUNE-WAR-WINDOWS.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\ZUNE-WAR-WINDOWS\ZUNE-WAR-WINDOWS\obj\x86\Debug\ZUNE-WAR-WINDOWS.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\ZUNE-WAR-WINDOWS\ZUNE-WAR-WINDOWS\bin\x86\Debug\Content\tank1.xnb
